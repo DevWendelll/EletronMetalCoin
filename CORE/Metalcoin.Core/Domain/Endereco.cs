@@ -1,6 +1,5 @@
 ﻿using Metalcoin.Core.Abstracts;
 
-
 namespace Metalcoin.Core.Domain
 {
     public class Endereco : Entidade
@@ -18,4 +17,3 @@ namespace Metalcoin.Core.Domain
         public Guid FornecedorId { get; set; }
     }
 }
-
